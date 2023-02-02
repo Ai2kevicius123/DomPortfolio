@@ -1,0 +1,46 @@
+/* About me*/
+* {
+    margin: 0;
+    padding: 0;  
+    font-family: League Spartan;
+}
+
+html {
+    font-family: Helvetica;
+    line-height: normal;
+}
+
+.about-me-section {
+    display: flex;
+    background-color: #D5C9EF;
+}
+
+.about-me-container {
+    text-align: left;
+    margin: auto;
+}
+
+.about-me-container h2 {
+    font-size: 3em;
+    margin-bottom: 0.5em;
+    text-align: left;
+    padding: 0.2em;
+}
+
+.about-me-container h4 {
+    font-size: 1.2em;
+    padding: 0.5em;
+}
+
+#about-myself-img {
+    width: 300px;
+    max-width: 100%;
+    height: auto;
+    margin-top: 3em;
+    margin-right: 10em;
+    margin-left: 2em;
+    border-radius: 50%;
+    border-style: solid;
+    border-width: 1em;
+    border-color: #5266C3;
+}
